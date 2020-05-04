@@ -1,4 +1,4 @@
-#! /snap/bin/pypy3
+#! /bin/python3
 '''CAUTION: `spoof_mac` breaks network connection. Consider negative outcomes.
 - spoofs MAC address based on indexed weekday number;
 - imports `datetime.date()` and `subprocess.run()` methods.'''
