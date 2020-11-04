@@ -54,3 +54,5 @@ sudo lshw -class network | egrep 'serial|logical name'
 `gen_mac.py` generates a pseudo-random MAC address. The first part of the spoofed MAC address comes from a list of organizationally unique identifiers.
 
 1. [Magic_number_(programming): In_files](https://en.wikipedia.org/wiki/Magic_number_(programming)#In_files)
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R72LISM)
